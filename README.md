@@ -1,7 +1,7 @@
-#### ANALYSIS OF US FLIGHT DATA FOR H1 2019
+### ANALYSIS OF US FLIGHT DATA FOR H1 2019
 
 
-## PROJECT OVERVIEW
+#### PROJECT OVERVIEW
 
 A client would like to develop a model that predicts the taxi-out time for an aircraft 2 hours before the scheduled departure time. The client believes that being able to predict the taxi out time will guide them on how to fuel their aircrafts and save money by efficient use of fuel. Before the model is developed, the client would like to get answers to some questions asked by external stakeholders based on US flight data for the first half of 2019.
 
